@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Souhail9397
 - 👀 I’m interested in Brazilian Jiu Jitsu and Fitness
-- 🌱 I’m currently learning how to use GitHub
+- 🌱 I’m currently in a TSSR training with Wild Code School
 - 💞️ I’m looking to collaborate on many projects related to digital infrastructures installations 
 - 📫 How to reach me : souhail.aitouarraou@gmail.com
 
