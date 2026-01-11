@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Souhail9397
 - 👀 I’m interested in Brazilian Jiu Jitsu and Fitness
-- 🌱 I’m currently in a TSSR training with Wild Code School
+- 🌱 I obtained a TSSR degree with Wild Code School
 - 💞️ I’m looking to collaborate on many projects related to digital infrastructures installations 
-- 📫 How to reach me : souhail.aitouarraou@gmail.com
 
 <!---
 Souhail9397/Souhail9397 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
